@@ -31,7 +31,7 @@
 
 ## 2. Evidence Levels
 
-### A. Repository에서 직접 확인되는 사실
+### A. 자료에서 직접 확인되는 사실
 
 - 최종 서비스에 React / Vite Frontend와 Spring Backend가 존재
 - 초기 저장소에 Requirement List 파일 존재
@@ -39,11 +39,13 @@
 - Use Case Diagram 파일 존재
 - 의사결정 정리 파일 존재
 - 주차별 요구사항 명세서 존재
+- 제공된 프로젝트 포스터에 4명의 Developer가 표시되어 있으며 문하늘 이름이 포함됨
+- 제공된 프로젝트 시트에 기능 명세서 / 사용자 중심 요구사항 정의서 / 화면 정의서 / 권한표 / Use Case 모음이 존재
+- 의사결정 시트의 `문하늘` 열에 여러 제품 정책 안건에 대한 직접 의견 기록이 존재
 
-### B. 사용자 확인 사실
+### B. 사용자 확인이 추가로 필요한 사실
 
-- 4인 팀
-- Requirement List / Use Case 대부분 직접 작성
+- Requirement List / Use Case 대부분을 문하늘이 직접 작성했다는 기여 비중
 - Figma 화면 설계 수행
 - DB / Backend 담당 아님
 - 기획 내용을 Frontend 구현까지 연결
