@@ -42,6 +42,20 @@
 
 해당 문서의 대부분을 직접 작성했다는 점은 **사용자 확인 사실**이며, GitHub 파일 존재 자체가 개인 단독 작성자를 증명하지는 않습니다.
 
+다만 추가로 제공된 프로젝트 시트에서는 팀 의사결정 표에 `문하늘`이라는 개인 열이 존재하고, 다음과 같은 안건에 직접 의견을 남긴 기록을 확인했습니다.
+
+- 거래를 위해 등록한 장소를 홍익지도에서 활용할지
+- 위치 등록을 주소 입력 / 현위치 중 어떻게 제공할지
+- 장소 코멘트 사진 개수
+- 거래·장소 경로에 교통수단을 포함할지
+- AI chatbot을 버튼 / 직접 입력 중 어떤 방식으로 제공할지
+- 미인증 회원 권한
+- 아이디 / 닉네임 정책
+- 거래 평가 방식
+- 신고 처리 방식
+
+따라서 **팀 제품 정책 논의에 실제로 참여했다는 점은 자료로 직접 확인됩니다.**
+
 ---
 
 ## 4. Use Case
@@ -118,6 +132,11 @@ Use Case 작업의 주요 작성자가 문하늘이라는 점은 **사용자 확
 ### Repository evidence
 - [Final Repository](https://github.com/moonaneul/HongBookStore)
 - [Early Planning Repository](https://github.com/moonaneul/hong-bookstore)
+
+### Additional provided evidence
+- 프로젝트 포스터: 4명의 Developer 중 문하늘 이름 확인
+- 프로젝트 시트 모음: 기능 명세서 / 사용자 중심 요구사항 정의서 / 화면 정의서 / Requirement List / Step-by-step / 의사결정 / 권한 / Use Case 모음 확인
+- 의사결정 시트: `문하늘` 열에 다수의 직접 의견 기록 확인
 
 ### Early artifacts
 - Requirement List
